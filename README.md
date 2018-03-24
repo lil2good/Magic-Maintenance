@@ -4,7 +4,11 @@
 
 
 
-***
+
+
+
+
+
 *Supports all page builders
 
 *Turn on/off maintenance mode
@@ -16,5 +20,3 @@
 *Detailed Documentation
 
 *Easy Setup
-
-***
